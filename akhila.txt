@@ -1,1 +1,8 @@
-https://github.com/AAkhila2005/akhi.git
+touch data.txt
+touch commands.txt
+nano data.txt
+naon commands.txt
+git add .
+git commit -m "Files added"
+git remote add origin 
+git push origin master
