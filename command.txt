@@ -1,7 +1,7 @@
 touch akhila.txt
 touch commands.txt
 nano akhila.txt
-naon commands.txt
+nano commands.txt
 git add .
 git commit -m "Files added"
 git remote add origin 
