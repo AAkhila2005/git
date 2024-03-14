@@ -1,1 +1,4 @@
-https://github.com/AAkhila2005/akhi.git
+Name-A Akhila
+Branch-EEE
+Hobbies-Playing batminton
+
