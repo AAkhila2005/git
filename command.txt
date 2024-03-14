@@ -1,6 +1,6 @@
-touch data.txt
+touch akhila.txt
 touch commands.txt
-nano data.txt
+nano akhila.txt
 naon commands.txt
 git add .
 git commit -m "Files added"
